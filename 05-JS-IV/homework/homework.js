@@ -157,13 +157,8 @@ function agregarMetodoCalculoDescuento(producto) {
   return producto;
 }
 
-var objHombre = {
-  name: "Leo",
-  edad: 44,
-  saludar: function(){
-    console.log(" saluda a todos" )
-  }
-} 
+
+ 
 
 // No modificar nada debajo de esta línea
 // --------------------------------
