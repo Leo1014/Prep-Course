@@ -60,7 +60,7 @@ function filter(array) {
   array.forEach(function(element){
     if(element.charAt(0) === "a"){
       newArray.push(element);
-    } t stat
+    }
   }); return newArray;
 }
 
